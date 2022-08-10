@@ -46,7 +46,8 @@ Reviewer, Archaeologist, Researcher, Hacker, and (possibly) Private Investigator
   - **Researcher:** Propose an imaginary follow-up project -- not just based on the current paper but only possible due to the existence and success of the it.
   - **Hacker:** Implement a small part of the paper on a small dataset or toy problem. Prepare to share the core code of the algorithm to the class. Do not simply download and run an existing implementation - you should implement at least a (toy version of a) method from the paper, though you are welcome to use (and give credit to) an existing implementation for "backbone" code (e.g. model building, data loading, training loop, etc.).
   - **Private Investigator:** Find out background information on one of the paper authors. Where have they worked? What did they study? What previous projects might have led to working on this one? What do you think motivated them to work on this project? Feel free to contact the authors, but remember to be courteous, polite, and on-topic. Write that you're in Prof. Raffel's seminar and include a link to this page.
- - **Social Impact Assessor:** Identify how this paper self-assesses its (likely positive) impact on the world. Have any additional positive social impacts left out? What are possible negative social impacts that were overlooked or omitted? 
+ - **Diagrammer:** Create a diagram of one of the concepts or ideas from the paper or re-make one of the plots in the paper to make it clearer. Please pick something that hasn't already been diagrammed from a previous paper.
+ - (optionally, depending on course enrollment) **Summarizer:** Write a two-ish paragraph summary of the paper. The summary should cover the motivation behind the paper, a description of any of the proposed methods, and an overview of the key findings.
 
 #### Non-presenter assignment
 
