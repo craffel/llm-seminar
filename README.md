@@ -39,7 +39,7 @@ All students will obtain a thorough understanding of the chosen papers and will 
 #### Presentation roles
 
 This seminar is organized around the different "roles" students play each week:
-Reviewer, Archaeologist, Researcher, Hacker, and (possibly) Private Investigator.
+Reviewer, Archaeologist, Researcher, Hacker, Diagrammer, and (possibly) Blogger.
 
   - **Reviewer:** Complete a full critical, but not necessarily negative, review of the paper. Follow the [guidelines for NeurIPS reviewers](https://neurips.cc/Conferences/2022/ReviewerGuidelines) (under "Review Form"). Please complete the "Strengths and Weaknesses" and "Questions" sections and assign an overall score; you can skip the rest of the review (including writing a summary since all students should have read the paper).
   - **Archaeologist:** Determine where this paper sits in the context of previous and subsequent work. Find and report on one prior paper *that we are not reading in this class* that substantially influenced the current paper and one newer paper *that we are not reading in this class* that cites this current paper.
@@ -47,7 +47,7 @@ Reviewer, Archaeologist, Researcher, Hacker, and (possibly) Private Investigator
   - **Hacker:** Implement a small part of the paper on a small dataset or toy problem. Prepare to share the core code of the algorithm to the class. Do not simply download and run an existing implementation - you should implement at least a (toy version of a) method from the paper, though you are welcome to use (and give credit to) an existing implementation for "backbone" code (e.g. model building, data loading, training loop, etc.).
   - **Private Investigator:** Find out background information on one of the paper authors. Where have they worked? What did they study? What previous projects might have led to working on this one? What do you think motivated them to work on this project? Feel free to contact the authors, but remember to be courteous, polite, and on-topic. Write that you're in Prof. Raffel's seminar and include a link to this page.
  - **Diagrammer:** Create a diagram of one of the concepts or ideas from the paper or re-make one of the plots in the paper to make it clearer. Please pick something that hasn't already been diagrammed from a previous paper.
- - (optionally, depending on course enrollment) **Summarizer:** Write a two-ish paragraph summary of the paper. The summary should cover the motivation behind the paper, a description of any of the proposed methods, and an overview of the key findings. The summarizer will not present during the class session.
+ - (optionally, depending on course enrollment) **Blogger:** Write a two-ish paragraph summary of the paper. The summary should cover the motivation behind the paper, a description of any of the proposed methods, and an overview of the key findings. The blogger will not present during the class session.
 
 #### Non-presenter assignment
 
